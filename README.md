@@ -32,13 +32,13 @@ apt install git
 You can then clone the repository by typing:
 
 ```
-git clone https://github.com/darabigdata/AgriHack1.git
+git clone https://github.com/darabigdata/https://github.com/darabigdata/COVID19_Twitter_Project
 ```
 
 To update your clone if changes are made, use:
 
 ```
-cd AgriHack1/
+cd COVID19_Twitter_Project/
 git pull
 ```
 
